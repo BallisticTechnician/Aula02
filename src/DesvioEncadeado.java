@@ -13,7 +13,9 @@ public class DesvioEncadeado {
 		idade = leitor.nextInt();
 	
 		/*Aqui devemos criar uma solução para realizar as verificações.*/
-		
+		if (doacao>1000) {
+			
+		}
 		
 	
 		leitor.close();
